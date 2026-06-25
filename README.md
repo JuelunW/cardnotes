@@ -6,18 +6,26 @@ Whether you are managing a simple setup with an Apple Card or optimizing a compl
 With interactive gestures, you can quickly flip cards to view detailed fee information, swipe through your collection, or drag and drop to reorder your wallet. Your data is stored securely on your device, ensuring your financial organization remains private and accessible.
 
 **Key Features**
-🌟 Beautifully Customizable Cards: Personalize your digital cards with a vast selection of preset solid colors, beautiful gradients, or use the custom color picker and gradient angle adjuster to match your physical card perfectly.
 
-🌟 Track Perks & Benefits: Create detailed, reorderable lists of your card benefits, so you always know which card to use. Add dividers to keep complex perk lists perfectly organized.
+🌟 Beautifully Customizable Cards: 
+Personalize your digital cards with a vast selection of preset solid colors, beautiful gradients, or use the custom color picker and gradient angle adjuster to match your physical card perfectly.
 
-🌟 Interactive Fee Dashboard: Tap to flip your card and access a sleek 3D glass panel displaying crucial details like your Annual Fee, Foreign Transaction (TX) Fee, Posting Time, and Cashback Time.
+🌟 Track Perks & Benefits: 
+Create detailed, reorderable lists of your card benefits, so you always know which card to use. Add dividers to keep complex perk lists perfectly organized.
 
-🌟 Smart Organization & Filtering: Seamlessly drag and drop cards on your home screen to prioritize your daily drivers. Use the quick filter to sort your wallet by specific card networks.
+🌟 Interactive Fee Dashboard: 
+Tap to flip your card and access a sleek 3D glass panel displaying crucial details like your Annual Fee, Foreign Transaction (TX) Fee, Posting Time, and Cashback Time.
 
-🌟 Elegant, Glassmorphic UI: Enjoy a premium user experience featuring smooth animations, haptic feedback, and modern frosted-glass design elements.
+🌟 Smart Organization & Filtering: 
+Seamlessly drag and drop cards on your home screen to prioritize your daily drivers. Use the quick filter to sort your wallet by specific card networks.
 
-🌟 Native Dark & Light Modes: Fully optimized to look stunning whether your device is set to Light or Dark mode.
+🌟 Elegant, Glassmorphic UI: 
+Enjoy a premium user experience featuring smooth animations, haptic feedback, and modern frosted-glass design elements.
 
-🌟 Privacy First: All your card details, perks, and preferences are saved entirely locally on your device.
+🌟 Native Dark & Light Modes: 
+Fully optimized to look stunning whether your device is set to Light or Dark mode.
+
+🌟 Privacy First: 
+All your card details, perks, and preferences are saved entirely locally on your device.
 
 (Note: This app is for organizational purposes only and does not process real financial transactions or require sensitive actual card numbers—only the last 4 digits for easy identification.)
